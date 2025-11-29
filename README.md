@@ -1,6 +1,13 @@
 # awesome-cli
 A curated list of modern unix cli tools for daily life
 
+## Terminal Emulators
+
+ - WezTerm
+ - Ghostty
+ - Alacritty
+ - Kitty
+
 ## Editors
 
  - [Neovim](https://neovim.io): a modern version of vim with better configuration options
@@ -17,6 +24,7 @@ A curated list of modern unix cli tools for daily life
  - [starship](https://starship.rs/): another fast prompt for a shell
  - [zoxide](https://github.com/ajeetdsouza/zoxide): a replacement for cd with fuzzy search and history
  - [ripgrep](https://github.com/BurntSushi/ripgrep): a fast replacement for ack, silver search to look for regex matches in directories
+ - [yq](https://github.com/mikefarah/yq): the smaller brother of jq. a yaml query language, to transform yaml files
  - [delta](https://github.com/dandavison/delta): diffing tool which is handy for git
 
 ## Terminal Multiplexers
@@ -39,9 +47,13 @@ A curated list of modern unix cli tools for daily life
  - [HTTPie](https://httpie.io/): a human friendly curl
  - [rust-net](https://httpie.io/): a network sniffer
 
-## OpenSSL
+## Administration
 
  - [cloudflare ssl](https://github.com/cloudflare/cfssl): cloudflare SSL tui to manage certificates
+ - [yozefu](https://github.com/MAIF/yozefu): a kafka tui for adminitration
+ - [e1s](https://github.com/keidarcy/e1s): an ECS administration tool
+ - [k9s](https://k9scli.io/): a Kubernetes administration tool
+ - [nerdlog](https://github.com/dimonomid/nerdlog): a remote first log viewer 
 
 ## Development
 
