@@ -60,5 +60,5 @@ A curated list of modern unix cli tools for daily life
  - [nnd](https://github.com/al13n321/nnd): a fast cli debugger for native x86_64 binaries (Rust, C++, C)
  - [gitui](https://github.com/gitui-org/gitui): a modern git tui 
  - [lazygit](https://github.com/jesseduffield/lazygit): a modern git tui
-
+ - [uv](https://docs.astral.sh/uv/): a fast alternative for python development that replaces pip, venv and other tools
 
