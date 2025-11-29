@@ -55,7 +55,8 @@ A curated list of modern unix cli tools for daily life
  - [yozefu](https://github.com/MAIF/yozefu): a kafka tui for adminitration
  - [e1s](https://github.com/keidarcy/e1s): an ECS administration tool
  - [k9s](https://k9scli.io/): a Kubernetes administration tool
- - [nerdlog](https://github.com/dimonomid/nerdlog): a remote first log viewer 
+ - [nerdlog](https://github.com/dimonomid/nerdlog): a remote first log viewer
+ - [systemctl-tui](https://github.com/rgwood/systemctl-tui): a tui to stop remembering all the systemd commands
 
 ## Development
 
