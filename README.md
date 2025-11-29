@@ -24,7 +24,7 @@ A curated list of modern unix cli tools for daily life
  - [starship](https://starship.rs/): another fast prompt for a shell
  - [zoxide](https://github.com/ajeetdsouza/zoxide): a replacement for cd with fuzzy search and history
  - [eza](https://github.com/eza-community/eza): a modern replacement for ls
- - [fd)(https://github.com/sharkdp/fd): amodern alternative to find
+ - [fd](https://github.com/sharkdp/fd): amodern alternative to find
  - [ripgrep](https://github.com/BurntSushi/ripgrep): a fast replacement for ack, silver search to look for regex matches in directories
  - [yq](https://github.com/mikefarah/yq): the smaller brother of jq. a yaml query language, to transform yaml files
  - [delta](https://github.com/dandavison/delta): diffing tool which is handy for git
