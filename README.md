@@ -28,6 +28,8 @@ A curated list of modern unix cli tools for daily life
  - [ripgrep](https://github.com/BurntSushi/ripgrep): a fast replacement for ack, silver search to look for regex matches in directories
  - [yq](https://github.com/mikefarah/yq): the smaller brother of jq. a yaml query language, to transform yaml files
  - [delta](https://github.com/dandavison/delta): diffing tool which is handy for git
+ - [duf](https://github.com/muesli/duf): modern df
+ - [dust](https://github.com/bootandy/dust) modern df
 
 ## Terminal Multiplexers
 
