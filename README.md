@@ -44,6 +44,10 @@ A curated list of modern unix cli tools for daily life
  - [bat](https://github.com/sharkdp/bat): file viewer with syntax highlighting
  - [glow](https://github.com/charmbracelet/glow): file viewer for markdown
 
+## File Browsers
+
+ - [yazi](https://github.com/sxyazi/yazi)
+
 ## Web
 
  - [HTTPie](https://httpie.io/): a human friendly curl
@@ -57,6 +61,7 @@ A curated list of modern unix cli tools for daily life
  - [k9s](https://k9scli.io/): a Kubernetes administration tool
  - [nerdlog](https://github.com/dimonomid/nerdlog): a remote first log viewer
  - [systemctl-tui](https://github.com/rgwood/systemctl-tui): a tui to stop remembering all the systemd commands
+ - [lazy docker](https://github.com/jesseduffield/lazydocker)
 
 ## Development
 
@@ -65,3 +70,8 @@ A curated list of modern unix cli tools for daily life
  - [lazygit](https://github.com/jesseduffield/lazygit): a modern git tui
  - [uv](https://docs.astral.sh/uv/): a fast alternative for python development that replaces pip, venv and other tools
 
+# References
+
+ - [agarrharr's awesome cli list](https://github.com/agarrharr/awesome-cli-apps)
+ - [rothgar awesome-tuis](https://github.com/rothgar/awesome-tuis)
+ - [dlvhdr's cli tools](https://www.dlvhdr.me/posts/cli-tools)
