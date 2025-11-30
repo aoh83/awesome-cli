@@ -31,6 +31,7 @@ A curated list of modern unix cli tools for daily life
  - [duf](https://github.com/muesli/duf): modern df
  - [dust](https://github.com/bootandy/dust): modern df
  - [entr](https://github.com/eradman/entr): execute a command, whenever files change
+ - [procs](https://github.com/dalance/procs): a modern replacement for ps
 
 ## Terminal Multiplexers
 
@@ -65,6 +66,7 @@ A curated list of modern unix cli tools for daily life
  - [nerdlog](https://github.com/dimonomid/nerdlog): a remote first log viewer
  - [systemctl-tui](https://github.com/rgwood/systemctl-tui): a tui to stop remembering all the systemd commands
  - [lazy docker](https://github.com/jesseduffield/lazydocker)
+ - [nerdctl](https://github.com/containerd/nerdctl): a replacement for docker cli, if you run containerd
 
 ## Development
 
@@ -78,3 +80,4 @@ A curated list of modern unix cli tools for daily life
  - [agarrharr's awesome cli list](https://github.com/agarrharr/awesome-cli-apps)
  - [rothgar awesome-tuis](https://github.com/rothgar/awesome-tuis)
  - [dlvhdr's cli tools](https://www.dlvhdr.me/posts/cli-tools)
+ - [modern unix cli list](https://github.com/ibraheemdev/modern-unix)
