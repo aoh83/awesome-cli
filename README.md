@@ -29,7 +29,8 @@ A curated list of modern unix cli tools for daily life
  - [yq](https://github.com/mikefarah/yq): the smaller brother of jq. a yaml query language, to transform yaml files
  - [delta](https://github.com/dandavison/delta): diffing tool which is handy for git
  - [duf](https://github.com/muesli/duf): modern df
- - [dust](https://github.com/bootandy/dust) modern df
+ - [dust](https://github.com/bootandy/dust): modern df
+ - [entr](https://github.com/eradman/entr): execute a command, whenever files change
 
 ## Terminal Multiplexers
 
