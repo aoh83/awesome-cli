@@ -75,6 +75,13 @@ A curated list of modern unix cli tools for daily life
  - [lazygit](https://github.com/jesseduffield/lazygit): a modern git tui
  - [uv](https://docs.astral.sh/uv/): a fast alternative for python development that replaces pip, venv and other tools
 
+## Chat Applications
+
+ - [Gurk](https://github.com/boxdot/gurk-rs): A Signal CLI Client
+ - [Discordo](https://github.com/ayn2op/discordo): A Discord CLI Client
+ - [Zulip-Terminal](https://github.com/zulip/zulip-terminal): A Zulip Terminal Client
+ - [Matrix Commander](https://github.com/8go/matrix-commander): A matrix Terminal Client
+
 # References
 
  - [agarrharr's awesome cli list](https://github.com/agarrharr/awesome-cli-apps)
