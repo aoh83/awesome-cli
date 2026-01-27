@@ -75,6 +75,13 @@ A curated list of modern unix cli tools for daily life
  - [lazygit](https://github.com/jesseduffield/lazygit): a modern git tui
  - [uv](https://docs.astral.sh/uv/): a fast alternative for python development that replaces pip, venv and other tools
 
+## Cloud Operations
+
+### Kafka
+
+ - [kafkactl](https://github.com/fgrosse/kafkactl)
+ - [topicctl](https://github.com/segmentio/topicctl)
+
 ## Chat Applications
 
  - [Gurk](https://github.com/boxdot/gurk-rs): A Signal CLI Client
