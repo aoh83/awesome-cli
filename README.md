@@ -95,3 +95,4 @@ A curated list of modern unix cli tools for daily life
  - [rothgar awesome-tuis](https://github.com/rothgar/awesome-tuis)
  - [dlvhdr's cli tools](https://www.dlvhdr.me/posts/cli-tools)
  - [modern unix cli list](https://github.com/ibraheemdev/modern-unix)
+ - [terminal trove](https://terminaltrove.com/categories/tui/)
