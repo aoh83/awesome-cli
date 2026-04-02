@@ -74,7 +74,7 @@ A curated list of modern unix cli tools for daily life
  - [gitui](https://github.com/gitui-org/gitui): a modern git tui 
  - [lazygit](https://github.com/jesseduffield/lazygit): a modern git tui
  - [uv](https://docs.astral.sh/uv/): a fast alternative for python development that replaces pip, venv and other tools
-
+ - [lazyjournal](https://github.com/Lifailon/lazyjournal): docker/journald log viewer tui
 ## Cloud Operations
 
 ### Kafka
@@ -82,6 +82,10 @@ A curated list of modern unix cli tools for daily life
  - [kafkactl](https://github.com/fgrosse/kafkactl)
  - [topicctl](https://github.com/segmentio/topicctl)
 
+## AWS
+ 
+ - [stu](https://github.com/lusingander/stu): S3 object explorer
+   
 ## Chat Applications
 
  - [Gurk](https://github.com/boxdot/gurk-rs): A Signal CLI Client
