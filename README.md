@@ -75,6 +75,8 @@ A curated list of modern unix cli tools for daily life
  - [lazygit](https://github.com/jesseduffield/lazygit): a modern git tui
  - [uv](https://docs.astral.sh/uv/): a fast alternative for python development that replaces pip, venv and other tools
  - [lazyjournal](https://github.com/Lifailon/lazyjournal): docker/journald log viewer tui
+ - [jj-vcs](https://github.com/jj-vcs/jj): a git compatible VCS
+
 ## Cloud Operations
 
 ### Kafka
